@@ -1,4 +1,4 @@
-# Scientific_computing
+# Scientific Computing Course
 
 This repository contains programming assignments from the Scientific Computing course. Below is a summary of each assignment:
 
@@ -7,7 +7,7 @@ This repository contains programming assignments from the Scientific Computing c
   - Methods for measuring the performance of these operations and determining machine epsilon — the smallest difference a computer can distinguish between two numbers.
 
 - **02: Solving Linear Systems and Tomographic Reconstruction**
-  - Solutions for systems of linear equations using techniques like Gaussian elimination and Cholesky decomposition, implemented without specific NumPy utilities.
+  - Solutions for systems of linear equations using techniques like Gaussian elimination and Cholesky decomposition, implemented without specific NumPy functions.
   - Functions for setting up and solving tomographic reconstruction problems, enabling image creation from measurement data.
 
 - **03: Principal Component Analysis (PCA) and Face Recognition**
@@ -25,5 +25,6 @@ This repository contains programming assignments from the Scientific Computing c
   - Construction and application of Discrete Fourier Transform (DFT) matrices and Fast Fourier Transform (FFT).
   - Tasks include creating and transforming delta impulse signals, generating tone signals, and applying low-pass filters to process signals.
 
-    Construction and application of Discrete Fourier Transform (DFT) matrices and Fast Fourier Transform (FFT).
-    Tasks include creating and transforming delta impulse signals, generating tone signals, and applying low-pass filters to process signals.
+- **06: Numerical Methods and Optimization**
+  - Implementation of the bisection method and generation of Newton fractals.
+  - Application of gradient descent to compute the minimal surface area for a given set of triangles.
